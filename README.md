@@ -1,5 +1,5 @@
-# Ciencia-de-Dados
-Meu diario de estudos em Ciencia de Dados
+# Bem Vindoo
+Ao meu diario de estudos em Ciencia de Dados.
 
 ## Apresentação
 Hellou. Eu sou a Nicoly Régia, estou me formando em Análise e Desenvolvimento de Sistemas no IFRS, atualmente desempregada e procurando recolocação no mercado. Sou analista de Dados há mais de 3 anos e quero migrar para ciencia de dados.
